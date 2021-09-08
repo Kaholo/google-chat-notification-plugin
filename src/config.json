@@ -4,7 +4,7 @@
   "exposeRoute": false,
   "execProgram": "node",
   "main": "index.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description":"Notificator for Google Chat",
   "imgUrl": "google-chat.png",
   "settings":[

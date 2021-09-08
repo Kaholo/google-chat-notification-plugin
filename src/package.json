@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Kaholo/google-chat-notification-plugin"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Kaholo/google-chat-notification-plugin/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/Kaholo/google-chat-notification-plugin#readme",
   "dependencies": {
     "node-fetch": "^2.6.1"
   }

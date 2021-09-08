@@ -1,2 +1,7 @@
 # google-chat-notification-plugin
-Kaholo | plugin | notificator for google chat
+[Kaholo](https://kaholo.io/) | [plugin](https://kaholo.io/plugins/) | notificator for [google chat](https://developers.google.com/chat/reference/message-formats/basic?hl=en)  
+
+How to create zip?
+```
+    npm run build
+```
