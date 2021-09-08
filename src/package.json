@@ -1,0 +1,28 @@
+{
+  "name": "google-chat-notification-plugin",
+  "version": "1.0.2",
+  "description": "Kaholo notofication plugin for google chat",
+  "keywords": [
+    "kaholo",
+    "plugin",
+    "google",
+    "chat"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
