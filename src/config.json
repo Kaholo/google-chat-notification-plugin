@@ -4,7 +4,7 @@
   "exposeRoute": false,
   "execProgram": "node",
   "main": "index.js",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description":"Notificator for Google Chat with vault settings",
   "imgUrl": "google-chat.png",
   "settings":[
@@ -15,14 +15,13 @@
     },
     {
       "name":"KEY",
-      "viewName": "KEY",
+      "viewName": "Key",
       "type":"vault"
     },
     {
       "name":"TOKEN",
-      "viewName": "TOKEN",
+      "viewName": "Token",
       "type":"vault"
     }
   ]
 }
-?key=&token=q1qPbxm_D1X7NgIJqxq3ZpxEAOuanLLIqjczBcdw-A0%3D
