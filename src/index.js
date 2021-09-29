@@ -34,7 +34,7 @@ function formatDate(date) {
 }
 
 function sendNotification(params = expectedStructureOfParams, settings) {
-  const url = settings.WEB_HOOK_URL;
+  const url = `${settings.WEB_HOOK_URL}?key=${settings.KEY}&token=${settings.TOKEN}`;
 
   if (!url) {
     return Promise.reject("Web hook url must be defined");
