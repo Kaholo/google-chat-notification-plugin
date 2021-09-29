@@ -1,17 +1,28 @@
 {
-  "name": "google-chat-notificator",
+  "name": "google-chat-notificator-vault",
   "type": "notificator",
   "exposeRoute": false,
   "execProgram": "node",
   "main": "index.js",
-  "version": "1.0.3",
-  "description":"Notificator for Google Chat",
+  "version": "1.1.0",
+  "description":"Notificator for Google Chat with vault settings",
   "imgUrl": "google-chat.png",
   "settings":[
     {
       "name":"WEB_HOOK_URL",
       "viewName": "Web Hook Url",
       "type":"string"
+    },
+    {
+      "name":"KEY",
+      "viewName": "KEY",
+      "type":"vault"
+    },
+    {
+      "name":"TOKEN",
+      "viewName": "TOKEN",
+      "type":"vault"
     }
   ]
 }
+?key=&token=q1qPbxm_D1X7NgIJqxq3ZpxEAOuanLLIqjczBcdw-A0%3D
